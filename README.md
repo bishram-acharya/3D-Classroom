@@ -33,6 +33,6 @@ Ensure the "Additional Dependencies" field includes these libraries.
 
 
 # Features
-*Replica of real BCTAB classroom
-*Navigable
-*Rotating fan animation
+* Replica of real BCTAB classroom
+* Navigable
+* Rotating fan animation
