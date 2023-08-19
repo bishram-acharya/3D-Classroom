@@ -6,7 +6,7 @@ Opening a solution in Visual Studio and configuring OpenGL and GLUT (OpenGL Util
 Step 1: Open an Existing Solution:
 
 Launch Visual Studio.
-GGo to "File" > "Open" > "Project/Solution..."
+Go to "File" > "Open" > "Project/Solution..."
 Navigate to the directory where your solution is located and select the .sln file.
 i.e 3D-CLASSROOM-OPENGL.sln
 Click "Open" to load the solution.
