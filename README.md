@@ -1,6 +1,5 @@
 # 3D-Classroom
 The project's main focus is to develop an interactive and visually appealing simulation of our Classroom using the OpenGL graphics library. Through this project, users will be able to navigate virtual replica of our Classroom, providing  an engaging experience.
-# DESCRIPTION
 # HOW TO RUN ON YOUR LOCAL MACHINE
 Opening a solution in Visual Studio and configuring OpenGL and GLUT (OpenGL Utility Toolkit) involves a few steps to ensure your project is set up correctly for OpenGL development. Here's a step-by-step guide:
 
@@ -33,7 +32,7 @@ freeglut.lib
 Ensure the "Additional Dependencies" field includes these libraries.
 
 
-#Features
+# Features
 *Replica of real BCTAB classroom
 *Navigable
 *Rotating fan animation
