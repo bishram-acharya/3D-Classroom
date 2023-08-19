@@ -56,7 +56,14 @@ opengl32.lib
 freeglut.lib
 Ensure the "Additional Dependencies" field includes these libraries.
 
+## Screenshots
+![Screenshot1](https://github.com/bishramacharya/3D-Classroom/blob/main/screenshots/project.PNG)
 
+![Screenshot2](https://github.com/bishramacharya/3D-Classroom/blob/main/screenshots/project2.PNG)
+
+![Screenshot3](https://github.com/bishramacharya/3D-Classroom/blob/main/screenshots/project3.PNG)
+
+![Screenshot4](https://github.com/bishramacharya/3D-Classroom/blob/main/screenshots/project4.PNG)
 ## Controls 
 * Use arrow keys for camera movement (forward, backward, sideways)
 * Use 'w', 'a', 's', 'd' keys for camera movement (forward, left, backward, right)
