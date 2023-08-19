@@ -1,0 +1,7 @@
+﻿  window.cpp
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+CMakeCXXCompilerId.obj : warning LNK4006: main already defined in classroom.obj; second definition ignored
+CMakeCCompilerId.obj : warning LNK4006: main already defined in classroom.obj; second definition ignored
+main.obj : warning LNK4006: main already defined in classroom.obj; second definition ignored
+C:\Users\bisra\3D-Classroom-OpenGL\x64\Debug\3D-Classroom-OpenGL.exe : warning LNK4088: image being generated due to /FORCE option; image may not run
+  3D-Classroom-OpenGL.vcxproj -> C:\Users\bisra\3D-Classroom-OpenGL\x64\Debug\3D-Classroom-OpenGL.exe
