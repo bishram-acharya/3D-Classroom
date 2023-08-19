@@ -32,7 +32,7 @@ freeglut.lib
 Ensure the "Additional Dependencies" field includes these libraries.
 
 
-#Features
+# Features
 *Replica of real BCTAB classroom
 *Navigable
 *Rotating fan animation
