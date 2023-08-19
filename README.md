@@ -5,7 +5,7 @@ The project's main focus is to develop an interactive and visually appealing sim
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [HOW TO RUN ON YOUR LOCAL MACHINE](#HOW_TO_RUN_ON_YOUR_LOCAL_MACHINE)
+  - [How to Run on Your Local Machine](#HOW-TO-RUN-ON-YOUR-LOCAL-MACHINE)
 - [Screenshots](#screenshots)
 - [Controls](#controls)
 - [Contributing](#contributing)
