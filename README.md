@@ -70,4 +70,4 @@ Ensure the "Additional Dependencies" field includes these libraries.
 * Move the mouse to adjust camera view direction
 
 ## Contributions
-Contributions are welcome Aug 21 onwards ! If you'd like to enhance the project or fix any issues, feel free to fork this repository, make your changes, and submit a pull request.
+Contributions are welcome September onwards ! If you'd like to enhance the project or fix any issues, feel free to fork this repository, make your changes, and submit a pull request.
